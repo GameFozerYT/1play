@@ -1,6 +1,6 @@
-﻿token= هنا حق التوكين حق بوتك
-owner= هنا حط الايدي حقك 
+token= NTU5MzQ2MDcyMTA3ODc2MzY3.D3kFNQ.lAuNN2iK26v8K0zP5sC0CdRK8cc
+owner= 480114808444682271 
 prefix= 1
 game= ItzLG|Music1
 stayinchannel=true
-songinstatus=false 
+songinstatus=false
