@@ -1,0 +1,6 @@
+﻿token= هنا حق التوكين حق بوتك
+owner= هنا حط الايدي حقك 
+prefix= 1
+game= ItzLG|Music1
+stayinchannel=true
+songinstatus=false 
